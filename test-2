@@ -1,0 +1,10 @@
+   cat 1st.txt 
+   git status
+ git status help
+  git status -help
+   git status --help
+  git status
+   git add 
+   git status
+   git commit -m "created 1st file"
+   git status
