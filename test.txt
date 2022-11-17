@@ -1,0 +1,25 @@
+yum install git -y
+    2  git -version
+    3  git --version
+    4  git --help
+    5  git configure
+    6  git config
+    7  git cofnq
+    8  git config --global user.name Dee
+    9  git config --global user.email abc@gmail.com
+   10  ls
+   11  cd /
+   12  ls
+   13  cd /mnt/
+   14  mkdir learn_git_with_Dee
+   15  ls
+   16  cd learn_git_with_Dee/
+   17  git init 
+   18  ls -la
+   19  cd .git/
+   20  ls
+   21  cat config 
+   22  cat conf
+   23  ls
+   24  cd ..
+   25  ls
