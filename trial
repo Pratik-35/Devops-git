@@ -1,0 +1,2 @@
+Print " pull request "
+git pull origin master 
